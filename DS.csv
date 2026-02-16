@@ -1,0 +1,112 @@
+Timestamp,Age,Gender  , Purchase frequency  ,  Size ,Price ,Brand,Type,Material,Rating,Review ,color[Formal] ,color [Casual],color [Sports],Brand type ,DATE OF LAST PURCHASE OF SHOES
+2025/07/14 8:16:29 PM GMT+5:30,19,Female,1,8,500 -1000,Bata,Casual,Canvas,4,Durability,Black,Black,Neon,International,05-04-2024
+2025/07/14 8:20:15 PM GMT+5:30,36,Female,2=3,7,500 -1000,Bata,Casual,Synthetic,4,Durability,Black,Brown,Black,International,06-05-2024
+2025/07/14 8:23:45 PM GMT+5:30,18,Female,1,6,500 -1000,Bata,Casual,Synthetic,3,Comfort;Price;Design/style,Black,White,Black,Both equally,04-10-2025
+2025/07/14 8:30:16 PM GMT+5:30,17,Male,2 =3 ,6,500-1000,Other: [Short Answer],Sports,Rubber,5,Other: _____,Black,White,White,Both equally,06-08-2024
+2025/07/14 8:30:55 PM GMT+5:30,20,Female,1,25,500- 1000,Sparx,Boots,Synthetic,3,Design/style,Black,Black,Black,National,20-12-2025
+2025/07/14 8:31:56 PM GMT+5:30,20,Female,2=3 ,7,500 -1000,Relaxo,Formal,Canvas,2,Price,Black,Brown,Black,National,18-08-2024
+2025/07/14 8:32:11 PM GMT+5:30,50,Male,1,7,500 -1000,Bata,Sports,Leather,5,Comfort;Design/style;Durability;Brand;Color,Black,Grey,White,National,06-11-2025
+2025/07/14 8:34:05 PM GMT+5:30,19,Female,3=4,9,500 -1000,Puma,Casual,Rubber,3,Comfort;Price;Design/style;Color,Black,Black,White,Both equally,06-06-2020
+2025/07/14 8:36:27 PM GMT+5:30,19,Female,4=5 ,8,1001 -2000,-- Indian Brands --,Ethnic,Synthetic,4,Brand,Black,Brown,Neon,National,05-10-2025
+2025/07/14 8:38:33 PM GMT+5:30,19,Female,1,8,500-1000,-- Indian Brands --,Casual,Rubber,4,Comfort;Price;Material;Brand;Color,Black,Black,Black,Both equally,03-01-2024
+2025/07/14 8:44:58 PM GMT+5:30,24,Male,2=3 ,9,500 -1000,Nike,Sports,Canvas,5,Comfort,Black,Black,White,International,14-08-2024
+2025/07/14 8:45:12 PM GMT+5:30,20,Female,2=3 ,4,500 -1000,-- Indian Brands --,Ethnic,Leather,4,Comfort;Price;Durability;Fit;Color,Black,Brown,Grey,Both equally,11-11-2021
+2025/07/14 9:01:52 PM GMT+5:30,19,Female,1,6,500 -1000,Sparx,Formal,Others,5,Material,Black,Black,White,Both equally,26-10-2020
+2025/07/14 9:01:55 PM GMT+5:30,18,Female,1,5,500 -1000,Bata,Formal,Rubber,5,Comfort;Price;Design/style;Material;Durability;Fit;Brand;Color,White,Black,Grey,Both equally,04-02-2020
+2025/07/14 9:08:47 PM GMT+5:30,21,Male,2=3 ,11,1001-2000,Campus,Casual,Others,5,Durability,Black,White,Black,Both equally,30-10-2025
+2025/07/14 10:07:53 PM GMT+5:30,18,Female,2=3 ,9,1001-2000,Metro Shoes,Boots,Others,4,Price;Design/style;Material;Brand;Color,Brown,Black,Black,International,13-06-2023
+2025/07/14 10:12:23 PM GMT+5:30,19,Male,2=3 ,10,500 -1000,RedTape,Ethnic,Synthetic,4,Durability,Brown,Grey,Black,International,31-12-2023
+2025/07/14 10:14:07 PM GMT+5:30,19,Male,2=3 ,4,2001 -3000,Campus,Sports,Mesh,3,Material;Color;Other: _____,Grey,Brown,Black,National,11-03-2021
+2025/07/14 10:15:11 PM GMT+5:30,15,Male,2=3 ,6,10001-2000,Sparx,Formal,Canvas,5,Comfort;Price;Design/style;Material,Neon,Black,Neon,National,23-07-2023
+2025/07/14 10:19:49 PM GMT+5:30,19,Female,2=3 ,6,Below 500,-- Indian Brands --,Casual,Rubber,4,Comfort,Black,Grey,Black,Both equally,21-Feb
+2025/07/14 10:20:06 PM GMT+5:30,50,Male, 4=5,9,Above 5000,Nike,Formal,Synthetic,5,Comfort;Price;Design/style;Material;Durability;Fit;Brand;Color,Black,Black,White,Both equally,20-04-2023
+2025/07/14 10:46:00 PM GMT+5:30,19,Female,4=5 ,6,500 -1000,Campus,Casual,Rubber,4,Comfort;Price;Design/style;Material;Fit;Color,Brown,White,Black,Both equally,23-03-2023
+2025/07/14 10:48:24 PM GMT+5:30,19,Female,1,4,500-1000,Campus,Casual,Canvas,5,Comfort;Design/style;Material;Fit;Color,Brown,Grey,Black,National,14-05-2020
+2025/07/14 10:55:53 PM GMT+5:30,21,Female,2=3 ,6,500 -1000,-- Indian Brands --,Sports,Others,3,Comfort;Price;Durability;Fit,Brown,White,White,Both equally,13-04-2024
+2025/07/15 8:56:00 AM GMT+5:30,35,Male,1,9,500 -1000,Sparx,Casual,Canvas,4,Comfort,Black,Black,Black,Both equally,20-02-2020
+2025/07/15 11:48:55 AM GMT+5:30,19,Male,1,6,1001 -2000,-- Indian Brands --,Casual,Synthetic,4,Comfort,Black,Black,Black,Both equally,12-04-2024
+2025/07/15 12:01:44 PM GMT+5:30,19,Female,1,7,Below 500,-- Indian Brands --,Sports,Rubber,4,Price;Fit;Color,Black,Neon,Grey,National,03-03-2023
+2025/07/16 11:25:38 PM GMT+5:30,50,Female,2=3 ,7,1001 -2000,Bata,Casual,Leather,3,Comfort,Black,Brown,Grey,National,06-12-2022
+2025/07/17 10:47:58 AM GMT+5:30,18,Female,1,7,500-1000,Sparx,Casual,Others,4,Comfort;Design/style;Material;Durability;Brand,Black,White,Black,National,06-06-2024
+2025/07/18 8:14:50 AM GMT+5:30,17,Female,4=5 ,8,1001-2000,Liberty,Sports,Rubber,3,Material;Fit,Black,Brown,White,International,09-08-2022
+2025/08/08 9:59:23 PM GMT+5:30,45,Male,1,7,500 -1000,Woodland,Formal,Leather,4,Design/style,Black,Grey,Brown,National,24-10-2023
+2025/08/18 10:12:12 PM GMT+5:30,29,Male,2=3 ,7,2001 -3000,Adidas,Sports,Canvas,5,Comfort;Design/style,Brown,Black,White,International,22-04-2020
+2025/08/18 10:13:48 PM GMT+5:30,35,Female,1,6,500 1000,Paragon,Casual,Leather,3,Comfort;Fit,Black,Black,Black,Both equally,04-11-2023
+2025/08/18 10:17:59 PM GMT+5:30,20,Female,2=3 ,5,500 -1000,Sparx,Casual,Canvas,4,Comfort;Price;Material,Black,Black,White,International,05-05-2025
+2025/08/18 10:24:22 PM GMT+5:30,42,Male,1,7,500 -1000,Sparx,Casual,Mesh,4,Comfort;Material;Durability,Black,Grey,Grey,National,06-02-2020
+2025/08/18 10:25:30 PM GMT+5:30,26,Female,4=5 ,6,2001 -3000,Nike,Casual,Leather,5,Comfort;Durability;Brand,Black,White,White,International,06-03-2020
+2025/08/18 10:31:03 PM GMT+5:30,23,Male,2=3 ,5,500-1000,Puma,Formal,Leather,4,Comfort;Design/style;Brand;Color,Brown,Neon,Grey,Both equally,04-12-2023
+2025/08/18 10:36:13 PM GMT+5:30,20,Male,2=3 ,7,500 -1000,Nike,Formal,Canvas,5,Comfort,Black,Grey,Neon,International,04-11-2023
+2025/08/18 10:36:25 PM GMT+5:30,37,Female,2=3 ,8,1001 -2000,Puma,Formal,Leather,5,Comfort;Design/style;Fit;Brand,Black,Brown,Grey,International,06-03-2010
+2025/08/18 10:37:01 PM GMT+5:30,50,Male,2â€“3 times,8,500-1000,Bata,Casual,Leather,4,Comfort,Black,Brown,Grey,National,06-05-2023
+2025/08/18 10:37:50 PM GMT+5:30,55,Female,1,6,500 -1000,Bata,Sports,Mesh,5,Comfort;Durability,Black,Grey,White,National,08-09-2020
+2025/08/18 10:39:42 PM GMT+5:30,46,Male,1,6,1001 -2000,Paragon,Boots,Mesh,4,Comfort;Design/style;Color,Black,Grey,Brown,Both equally,05-04-2023
+2025/08/18 10:41:00 PM GMT+5:30,25,Male,1,8,1001 -2000,Sparx,Sports,Leather,4,Comfort,Brown,Grey,Black,National,04-03-2024
+2025/08/19 12:47:08 AM GMT+5:30,26,Male,1,10,2001 -3000,Asian,Casual,Canvas,5,Comfort,Brown,Black,Grey,International,07-02-2023
+2025/08/19 9:42:51 AM GMT+5:30,32,Female,2=3 ,9,1001 -2000,Puma,Casual,Canvas,5,Material,Neon,Black,Grey,National,06-06-2016
+2025/08/19 9:46:29 AM GMT+5:30,29,Male,4=5 ,8,500 -1000,Adidas,Formal,Synthetic,3,Comfort,Black,Neon,Black,Both equally,07-06-2020
+2025/08/19 9:48:00 AM GMT+5:30,30,Prefer not to say,4=5 ,9,2001 -¹3000,Nike,Sports,Leather,5,Durability,Neon,Black,Grey,National,05-05-2010
+2025/08/19 9:51:52 AM GMT+5:30,27,Female,1,6,2001 -3000,Sparx,Ethnic,Mesh,4,Comfort,Grey,Brown,Black,Both equally,07-08-2025
+2025/08/19 9:55:01 AM GMT+5:30,31,Male,4=5 ,8,1001- 2000,Adidas,Sports,Synthetic,4,Material,Grey,Neon,Brown,Both equally,07-07-2025
+2025/08/19 10:17:45 AM GMT+5:30,25,Male,2=3 ,8,1001 -2000,Adidas,Boots,Rubber,3,Fit,Neon,Black,Grey,International,05-06-2023
+2025/08/19 10:21:04 AM GMT+5:30,19,Female,2=3 ,6,1001 -2000,Bata,Casual,Mesh,3,Brand,Grey,Brown,Grey,Both equally,06-09-2020
+2025/08/19 10:23:44 AM GMT+5:30,19,Male,2=3 ,8,1001 -2000,Liberty,Sports,Mesh,5,Material,Grey,Brown,Black,National,05-07-2021
+2025/08/19 10:43:07 AM GMT+5:30,32,Male,1,43,2001 -3000,-- International Brands --,Sports,Rubber,5,Comfort;Design/style;Fit;Brand,Brown,Grey,White,International,04-02-2020
+2025/08/19 12:13:55 PM GMT+5:30,54,Male,1,7,500 -1000,Bata,Formal,Leather,3,Comfort;Price,Brown,Brown,Black,National,06-04-2023
+2025/08/19 12:15:41 PM GMT+5:30,26,Female,2=3 ,6,500 -1000,Sparx,Casual,Canvas,5,Price;Design/style;Material,Black,Black,Black,Both equally,06-05-2020
+2025/08/19 12:16:38 PM GMT+5:30,23,Female,1,5,500 -1000,Nike,Casual,Mesh,5,Comfort;Brand,Brown,White,Black,International,03-12-2010
+2025/08/19 12:17:45 PM GMT+5:30,35,Female,2=3 ,5,1001 -2000,Adidas,Sports,Canvas,4,Comfort;Fit,Black,Brown,Grey,International,02-04-2020
+2025/08/19 12:19:15 PM GMT+5:30,29,Male,2=3 ,6,1001 -2000,Adidas,Casual,Mesh,5,Comfort;Durability;Fit,Brown,Black,Neon,International,01-01-2011
+2025/08/19 12:20:17 PM GMT+5:30,27,Male,1,7,500 1000,Sparx,Casual,Canvas,4,Comfort;Durability,Brown,Black,Grey,National,04-01-2020
+2025/08/19 12:22:54 PM GMT+5:30,25,Female,2=3 ,6,1001 -2000,Bata,Formal,Leather,4,Comfort;Durability,Black,White,Black,Both equally,24-10-2020
+2025/08/19 12:25:30 PM GMT+5:30,40,Male,1,7,1001 -2000,Bata,Formal,Canvas,5,Durability;Fit;Color,Black,Brown,Black,National,12-12-2012
+2025/08/19 12:26:37 PM GMT+5:30,35,Male,2=3 ,6,1001 -2000,Bata,Casual,Canvas,5,Durability;Fit,Black,Grey,Black,Both equally,03-02-2010
+2025/08/19 12:41:40 PM GMT+5:30,42,Female,1,5,500 -1000,Sparx,Sports,Mesh,4,Comfort;Price;Durability;Fit,Black,Black,Black,National,04-02-2011
+2025/08/19 12:43:04 PM GMT+5:30,18,Female,2=3 ,6,500 -1000,Bata,Formal,Leather,4,Comfort;Price;Durability,Brown,Grey,Neon,Both equally,06-04-2024
+2025/08/19 12:44:11 PM GMT+5:30,20,Male,2=3 ,6,500 -1000,Nike,Sports,Canvas,5,Comfort;Design/style;Material;Durability,Black,Brown,Neon,International,23-04-2023
+2025/08/19 12:44:49 PM GMT+5:30,22,Male,2=3 ,7,1001 -2000,Nike,Formal,Leather,5,Comfort;Design/style;Material;Durability,Black,Brown,Black,International,27-07-2023
+2025/08/19 12:46:23 PM GMT+5:30,25,Female,1,6,500 -1000,Bata,Casual,Canvas,4,Comfort;Price;Durability,Black,Brown,Grey,Both equally,26-06-2010
+2025/08/19 12:47:54 PM GMT+5:30,19,Female,2=3 ,5,500 -1000,Bata,Casual,Others,5,Comfort;Price;Material,Brown,Brown,Black,Both equally,28-04-2022
+2025/08/19 12:50:05 PM GMT+5:30,28,Female,1,6,500 1000,Relaxo,Formal,Leather,4,Comfort;Price;Design/style,Brown,Grey,Brown,Both equally,12-10-2010
+2025/08/19 12:53:57 PM GMT+5:30,29,Female,2=3 ,6,1001-2000,Puma,Casual,Canvas,4,Comfort;Material;Fit,Brown,White,White,International,02-03-2020
+2025/08/19 12:55:04 PM GMT+5:30,29,Male,4=5 ,7,2001 -3000,Nike,Formal,Leather,5,Comfort;Price;Design/style;Material,Black,Brown,Neon,International,03-04-2021
+2025/08/19 12:56:15 PM GMT+5:30,56,Male,1,6,500 -1000,Sparx,Casual,Mesh,3,Comfort;Price;Fit,Black,Grey,Neon,Both equally,04-05-2013
+2025/08/19 12:58:27 PM GMT+5:30,34,Female,1,5,500-1000,Bata,Sports,Mesh,5,Comfort;Design/style;Material;Durability,Black,Black,Black,National,06-03-2021
+2025/08/19 12:59:18 PM GMT+5:30,18,Female,1,6,500 -1000,Bata,Casual,Canvas,4,Comfort;Design/style;Durability;Fit,Brown,Grey,Neon,Both equally,05-01-2010
+2025/08/19 12:59:57 PM GMT+5:30,19,Female,2=3 ,6,500 -1000,Bata,Casual,Mesh,5,Comfort;Design/style;Durability,Brown,Grey,Neon,Both equally,25-05-2025
+2025/08/19 1:01:17 PM GMT+5:30,19,Male,2=3 ,6,500 -1000,Sparx,Sports,Canvas,4,Price;Design/style;Material,Black,White,White,International,06-05-2020
+2025/08/19 1:02:08 PM GMT+5:30,20,Female,1,6,1001 -2000,Puma,Sports,Mesh,5,Comfort;Price;Design/style;Material,Brown,Grey,Neon,International,05-04-2024
+2025/08/19 1:03:00 PM GMT+5:30,24,Female,2=3 ,6,1000-2000,Bata,Formal,Leather,4,Design/style;Material;Fit,Brown,White,White,National,03-03-2023
+2025/08/19 1:03:57 PM GMT+5:30,28,Male,1,7,1001 -2000,Puma,Sports,Mesh,4,Comfort;Durability,Brown,Black,Neon,National,04-03-2020
+2025/08/19 1:04:56 PM GMT+5:30,26,Male,2=3 ,7,500 -1000,Sparx,Casual,Canvas,3,Comfort;Price;Durability,Brown,Grey,Grey,National,03-02-2010
+2025/08/20 5:11:40 PM GMT+5:30,35,Male,2=3 ,6,500 -1000,Bata,Formal,Leather,5,Comfort;Price;Design/style;Material,Brown,Black,Black,National,02-02-2022
+2025/08/20 5:13:04 PM GMT+5:30,43,Male,1,6,500 -1000,Sparx,Casual,Mesh,4,Material;Durability;Fit,Black,Brown,Grey,Both equally,01-02-2010
+2025/08/20 5:14:20 PM GMT+5:30,22,Female,2=3 ,5,1001 -2000,Adidas,Sports,Synthetic,4,Design/style;Material;Fit;Brand,Brown,Grey,White,International,03-12-2020
+2025/08/20 5:15:26 PM GMT+5:30,27,Female,2=3 ,6,500 -1000,Sparx,Casual,Mesh,3,Comfort,Black,Brown,Brown,Both equally,04-05-2022
+2025/08/20 5:16:33 PM GMT+5:30,25,Female,2=3 ,6,1001 -2000,Puma,Boots,Leather,5,Price;Design/style;Durability,Black,White,Neon,International,05-04-2024
+2025/08/20 5:17:43 PM GMT+5:30,26,Male,2=3 ,6,1001 -2000,Nike,Sports,Canvas,5,Comfort;Design/style;Fit;Brand,Brown,White,White,National,04-06-2017
+2025/08/20 5:19:08 PM GMT+5:30,30,Male,1,7,500 -1000,Liberty,Formal,Leather,3,Color,Brown,Brown,Brown,Both equally,03-12-2014
+2025/08/20 5:21:45 PM GMT+5:30,19,Female,1,5,500 -1000,Bata,Formal,Leather,5,Brand;Color,Black,Brown,Brown,National,09-09-2010
+2025/08/20 5:24:02 PM GMT+5:30,25,Female,2=3 ,6,500 -1000,Nike,Sports,Mesh,5,Design/style;Durability,Black,Black,Black,International,03-05-2012
+2025/08/20 5:25:33 PM GMT+5:30,28,Female,4=5 ,7,2001-3000,Bata,Formal,Synthetic,5,Material,Grey,Brown,Black,International,23-04-2020
+2025/08/20 5:26:51 PM GMT+5:30,26,Male,1,8,1001 -2000,Campus,Sports,Mesh,4,Fit,Brown,Neon,Black,Both equally,12-01-2023
+2025/08/20 5:28:38 PM GMT+5:30,23,Male,2=3 ,8,3001 -5000,Paragon,Formal,Leather,5,Material,Black,Grey,Brown,International,06-03-2018
+2025/08/20 5:29:33 PM GMT+5:30,29,Female,2=3 ,9,1001 -2000,Relaxo,Sports,Canvas,5,Material,Brown,Black,Grey,Both equally,04-03-2020
+2025/08/20 5:36:54 PM GMT+5:30,30,Female,2=3 ,8,2001 -3000,Paragon,Sports,Mesh,4,Comfort,Grey,Black,Brown,Both equally,02-02-2010
+2025/08/20 5:39:18 PM GMT+5:30,45,Male,2=3 ,7,1001 -2000,Bata,Casual,Leather,4,Comfort,Black,Brown,Neon,National,04-03-2024
+2025/08/20 5:41:22 PM GMT+5:30,35,Female,1,6,1001-2000,Bata,Formal,Leather,4,Comfort;Design/style;Fit,Brown,Grey,Black,National,03-03-2011
+2025/08/20 5:43:36 PM GMT+5:30,20,Male,2=3 ,7,2001 -3000,Bata,Boots,Leather,5,Comfort,Brown,Grey,Neon,Both equally,04-02-2018
+2025/08/20 5:46:52 PM GMT+5:30,34,Male,4=5 ,8,2001 -3000,Sparx,Sports,Rubber,5,Design/style,Brown,Black,Neon,Both equally,24-04-2024
+2025/08/20 5:47:51 PM GMT+5:30,30,Male,4=5 ,9,2001 -3000,Paragon,Boots,Mesh,4,Durability,Grey,Brown,Black,International,02-02-2010
+2025/08/20 5:49:38 PM GMT+5:30,20,Female,2=3 ,7,2001 -3000,Campus,Sports,Synthetic,4,Design/style,Grey,Brown,Neon,International,01-12-2022
+2025/08/20 5:50:34 PM GMT+5:30,30,Male,2=3 ,9,2001 -3000,Sparx,Sports,Canvas,5,Material,Grey,Black,Grey,National,03-02-2010
+2025/08/20 5:50:40 PM GMT+5:30,42,Male,1,6,Below 500,Sparx,Casual,Synthetic,5,Comfort,Black,Brown,Neon,Both equally,12-12-2022
+2025/08/20 5:51:48 PM GMT+5:30,31,Female,1,5,500 -1000,-- Indian Brands --,Formal,Canvas,4,Design/style,Black,Grey,Brown,Both equally,03-10-2024
+2025/08/20 5:53:00 PM GMT+5:30,23,Female,2=3 ,6,1001 -2000,Relaxo,Boots,Synthetic,5,Material,Black,Grey,Brown,International,03-02-2022
+,,,,,,,,,,,,,,,06-03-2025
+,,,,,,,,,,,,,,,28-08-2023
+,,,,,,,,,,,,,,,05-11-2011
+,,,,,,,,,,,,,,,17-05-2023
+,,,,,,,,,,,,,,,08-10-2010
+,,,,,,,,,,,,,,,04-05-2017
+,,,,,,,,,,,,,,,15-10-2010
