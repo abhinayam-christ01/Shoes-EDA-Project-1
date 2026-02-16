@@ -1,5 +1,4 @@
 # Shoes-EDA-Project-1
-# Shoes EDA Project
 
 This project performs Exploratory Data Analysis (EDA) on shoe customer data using Python.
 
